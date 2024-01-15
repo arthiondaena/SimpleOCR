@@ -13,7 +13,7 @@ For the model architecture I have used Resnet architecture which you can read ab
 
 This is the image of the architecture I have used.
 
-![Model](https://github.com/arthiondaena/SimpleOCR/blob/master/model.PNG?raw=true)
+![Model](https://i.imgur.com/vZyVHmB.png)
 
 
 ## Usage
